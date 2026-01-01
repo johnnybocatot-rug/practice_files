@@ -1,0 +1,1 @@
+print ("Hello, World! and Happy New Year!")
